@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.447,F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\SqliteTablePCH1.h=F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\AppWithSqlitePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,C:\Users\Sasha\Desktop\Unit1.dfm=C:\Users\Sasha\Desktop\Form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,=C:\Users\Sasha\Desktop\SqliteTable\History</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\SqliteTable.cbproj=F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\AppWithSqlite.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\Projects\Unit1.dfm=C:\Users\Sasha\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,D:\Projects\Project1.cbproj=C:\Users\Sasha\Desktop\SqliteTable.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Users\Sasha\Desktop\SqliteTable\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,C:\Users\Sasha\Desktop\Unit1.h=C:\Users\Sasha\Desktop\Form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\Sasha\Desktop\SqliteTable\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,D:\Projects\Project1PCH1.h=C:\Users\Sasha\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\Projects\Unit1.h=C:\Users\Sasha\Desktop\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,=C:\Users\Sasha\Desktop\SqliteTable\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,C:\Users\Sasha\Desktop\Unit1.cpp=C:\Users\Sasha\Desktop\Form.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,=D:\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,C:\Users\Sasha\Desktop\Project1PCH1.h=C:\Users\Sasha\Desktop\SqliteTablePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,=D:\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\Projects\Unit1.cpp=C:\Users\Sasha\Desktop\Unit1.cpp</Transaction>
+    <Transaction>2019.04.09 00:28:25.135,F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\SqliteTablePCH1.h=F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\AppWithSqlitePCH1.h</Transaction>
+    <Transaction>2019.04.09 00:28:25.150,F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\SqliteTable.cbproj=F:\University\5 курс\Хорьков\projects\Sqlite-VirtualTreeView\AppWithSqlite.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
