@@ -1,0 +1,8 @@
+*.stat
+*.res
+*.groupproj*
+
+
+**/Win32/**
+**/__history/**
+**/__recovery/**
